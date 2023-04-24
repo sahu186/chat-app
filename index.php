@@ -3,10 +3,10 @@
 <head>
 	<title>Chatbot Example</title>
 </head>
-<body>
+<body> 
 	<h1>Chatbot Example</h1>
 	<form method="POST">
-		<label for="message">Enter your message:</label><br>
+		<label for="message">Enter your New message:</label><br>
 		<input type="text" id="message" name="message"><br><br>
 		<input type="submit" name="submit" value="Send">
 	</form>
